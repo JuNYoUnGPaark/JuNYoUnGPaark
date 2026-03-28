@@ -1,16 +1,15 @@
 ## Hi there 👋
+I’m **JunYoung Park**, an undergraduate research student still learning the ropes.
 
-<!--
-**JuNYoUnGPaark/JuNYoUnGPaark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My research interests lie in **Machine Learning**, **Wearable Sensing**, **Biosignal Analysis**, and **Healthcare AI** 
 
-Here are some ideas to get you started:
+-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📄 Publication
+
+> **JunYoung Park**, Gyuyeon Lim, and Myung-Kyu Yi, “Dynamics-Aware Action State Flow for Wearable Human Activity Recognition,” *IEEE Sensors Journal* (IF 4.5), 25 March, 2026.
+
+-----
+
+- ✉️ [park91802@gmail.com](mailto:park91802@gmail.com)
+- 🆔 [ORCID](https://orcid.org/0009-0007-3719-264X)
