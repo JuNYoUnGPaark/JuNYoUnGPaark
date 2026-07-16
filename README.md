@@ -12,7 +12,7 @@ I’m **JunYoung Park**, an undergraduate researcher interested in AI for health
 ### 🏥 Experience
 
 - 2021.01 –  2021.08 | Undergraduate Research Intern, Medical Device R&D Center, Gachon University Gil Hospital
-- 2026.06 - Present | Undergraduate Research Intern, Smart Ubiquitous Healthcare Lab, Hanyang University
+- 2026.05 | Undergraduate Research Intern, Smart Ubiquitous Healthcare Lab, Hanyang University
 -----
 
 ### 📄 Publication
