@@ -1,8 +1,3 @@
-<!-- Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=200&section=header&text=JunYoung%20Park&fontSize=52&fontColor=c0caf5&fontAlignY=35&desc=Undergraduate%20Researcher%20%C2%B7%20BME%20%C3%97%20CS&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
-</div>
-
 <!-- Typing Tagline -->
 <div align="center">
   <a href="https://github.com/park91802">
@@ -72,8 +67,3 @@ Jan 2021 – Aug 2021
 </table>
 
 <br/>
-
-<!-- Footer Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:24283b,100:1a1b27&height=120&section=footer" width="100%"/>
-</div>
