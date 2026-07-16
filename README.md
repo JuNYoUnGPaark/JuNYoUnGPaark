@@ -46,7 +46,7 @@ I'm an undergraduate researcher working at the intersection of **biomedical engi
 
 **Smart Ubiquitous Healthcare Lab**, Hanyang University  
 *Undergraduate Research Intern*  
-May 2026 – Present
+May 2026
 
 **Medical Device R&D Center**, Gachon University Gil Hospital  
 *Undergraduate Research Intern*  
