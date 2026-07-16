@@ -10,16 +10,16 @@
   </a>
 </div>
 
-<!-- Contact Badges -->
+<!-- Contact -->
 <div align="center">
-  <a href="mailto:park91802@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <code>park91802@gmail.com</code>
+  &nbsp;·&nbsp;
   <a href="https://scholar.google.com/citations?user=o8No7V0AAAAJ">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
+  &nbsp;
   <a href="https://orcid.org/0009-0007-3719-264X">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
 </div>
 
@@ -32,22 +32,23 @@ I'm an undergraduate researcher working at the intersection of **biomedical engi
 <br/>
 
 ## 🔭 Research Interests
+
 <div align="center">
 
-&nbsp;<img src="https://img.shields.io/badge/AI_for_Healthcare-1a1b27?style=flat-square&logo=heart&logoColor=f7768e&color=24283b"/>
-<img src="https://img.shields.io/badge/Wearable_Sensing-24283b?style=flat-square&logoColor=9ece6a&color=24283b"/>
-<img src="https://img.shields.io/badge/Physiological_Time_Series-24283b?style=flat-square&color=24283b"/>
+<img src="https://img.shields.io/badge/AI_for_Healthcare-24283b?style=flat-square"/>
+<img src="https://img.shields.io/badge/Wearable_Sensing-24283b?style=flat-square"/>
+<img src="https://img.shields.io/badge/Physiological_Time_Series-24283b?style=flat-square"/>
 <br/>
-<img src="https://img.shields.io/badge/Representation_Learning-24283b?style=flat-square&color=24283b"/>
-<img src="https://img.shields.io/badge/Self--Supervised_Learning-24283b?style=flat-square&color=24283b"/>
-<img src="https://img.shields.io/badge/Foundation_Models-24283b?style=flat-square&color=24283b"/>
+<img src="https://img.shields.io/badge/Representation_Learning-24283b?style=flat-square"/>
+<img src="https://img.shields.io/badge/Self--Supervised_Learning-24283b?style=flat-square"/>
+<img src="https://img.shields.io/badge/Foundation_Models-24283b?style=flat-square"/>
 
 </div>
 
 <br/>
 
-
 ## 💼 Experiences
+
 **Smart Ubiquitous Healthcare Lab**, Hanyang University  
 *Undergraduate Research Intern*  
 May 2026 – Present
@@ -56,8 +57,10 @@ May 2026 – Present
 *Undergraduate Research Intern*  
 Jan 2021 – Aug 2021
 
+<br/>
 
 ## 📄 Publications
+
 <table>
   <tr>
     <td>
