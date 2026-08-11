@@ -44,9 +44,13 @@ I'm an undergraduate researcher working at the intersection of **biomedical engi
 
 ## 💼 Experiences
 
+**Data Analytics and Healthcare Systems Lab**, Korea University\
+*Undergraduate Research Intern* \
+Aug 2026 - Present
+
 **Smart Ubiquitous Healthcare Lab**, Hanyang University  
 *Undergraduate Research Intern*  
-May 2026
+Jun 2026 - Aug 2026
 
 **Medical Device R&D Center**, Gachon University Gil Hospital  
 *Undergraduate Research Intern*  
