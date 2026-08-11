@@ -1,9 +1,10 @@
-<!-- Typing Tagline -->
-<div align="center">
-  <a href="https://github.com/park91802">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Machine+Learning+for+Healthcare;Wearable+Sensing+%26+Physiological+Time+Series;Toward+Foundation+Models+for+Biosignals" alt="Typing SVG"/>
-  </a>
-</div>
+
+
+<br/>
+
+## 🧬 About
+
+I'm an undergraduate researcher working at the intersection of **biomedical engineering and computer science**, with a focus on learning meaningful representations from wearable and physiological signals. My research focuses on machine learning for healthcare, with particular interests in wearable sensing, physiological time-series analysis, representation learning, and foundation models.
 
 <!-- Contact -->
 <div align="center">
@@ -17,12 +18,6 @@
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
 </div>
-
-<br/>
-
-## 🧬 About
-
-I'm an undergraduate researcher working at the intersection of **biomedical engineering and computer science**, with a focus on learning meaningful representations from wearable and physiological signals. My research focuses on machine learning for healthcare, with particular interests in wearable sensing, physiological time-series analysis, representation learning, and foundation models.
 
 <br/>
 
