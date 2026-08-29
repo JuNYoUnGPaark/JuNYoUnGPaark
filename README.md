@@ -61,6 +61,13 @@ Jan 2021 – Aug 2021
       <sub><i>IEEE Sensors Journal</i> · March 2026</sub>
     </td>
   </tr>
+  <tr>
+    <td>
+      <b>Compute-Aware Shared-Block Adaptive Execution for IMU-Based Human Activity Recognition</b><br/>
+      <sub><b>JunYoung Park</b>, Myung-Kyu Yi</sub><br/>
+      <sub><i>IEEE Internet of Things Journal</i> · Aug 2026</sub>
+    </td>
+  </tr>
 </table>
 
 <br/>
