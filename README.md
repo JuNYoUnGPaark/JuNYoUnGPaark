@@ -68,6 +68,13 @@ Jan 2021 – Aug 2021
       <sub><i>IEEE Internet of Things Journal</i> · Aug 2026</sub>
     </td>
   </tr>
+  <tr>
+    <td>
+      <b>Physics-Inspired Rate–Phase Attention Reconciliation for Inertial Human Activity Recognition</b><br/>
+      <sub><b>JunYoung Park</b>, Myung-Kyu Yi</sub><br/>
+      <sub><i>IEEE Sensors Journal</i> · Sep 2026</sub>
+    </td>
+  </tr>
 </table>
 
 <br/>
